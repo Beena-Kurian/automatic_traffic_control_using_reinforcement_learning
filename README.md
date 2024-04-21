@@ -30,9 +30,9 @@ pip install numpy tensorflow matplotlib sumolib traci
 The trained models and plots for rewards per episode will be saved in the models_new directory after you run the simulations.
 
 ## Authors
-Beena Kurian
-Kosisochukwu Andrew Ibe
-Salman Mahboob
+* Beena Kurian
+* Kosisochukwu Andrew Ibe
+* Salman Mahboob
 
 # Acknowledgments
 Special thanks to Prof. Mahmoud Nazr for guidance and support throughout the development of this project.
